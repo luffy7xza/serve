@@ -1,0 +1,37 @@
+{
+    "system": true,
+    "definition": {
+        "functionsTicket": {
+            "notifyuser": true,
+            "assumir": true,
+            "call": true,
+            "renomear": true,
+            "gerenciar": true,
+            "motivo": true
+        },
+        "channels": {
+            "logs": "1277427647940661351",
+            "feedback": "1277429228291362877",
+            "category": "1277427146012233832"
+        },
+        "role": "1277426482607558666"
+    },
+    "panel": {
+        "mensagem": {
+            "content": false,
+            "embeds": {
+                "title": "Não Definido",
+                "desc": "Não Definido",
+                "banner": null,
+                "cor": "#00FFFF"
+            },
+            "msg": {
+                "content": "Não Definido",
+                "banner": null
+            }
+        },
+        "functions": {},
+        "button": false,
+        "messages": []
+    }
+}
